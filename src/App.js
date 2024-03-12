@@ -1,5 +1,6 @@
 
 import './App.css';
+import './list.css'
 import List from './Complements/List'
 
 function App() {
