@@ -9,12 +9,8 @@ function App() {
 
       <p>Listado de peliculas</p>
       
-      
      <List/>
-      
-
     
-     
     </div>
     
   );
